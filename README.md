@@ -1,7 +1,3 @@
-Certainly! Here's the complete README file with all relevant information:
-
----
-
 # Human Action Detection with YOLOv8 and Roboflow
 
 This project provides a comprehensive solution for performing human action detection using YOLOv8, a powerful object detection model, integrated with the Roboflow platform for efficient dataset management. Human action detection is a vital task in computer vision, with applications ranging from video surveillance to human-computer interaction.
