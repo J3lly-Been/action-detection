@@ -34,6 +34,15 @@ Human action detection involves detecting and classifying human actions or activ
 
 ## Setup
 
+### Clone the Repository
+
+First, clone the repository to your local machine. Open your terminal or command prompt and run the following command:
+
+```bash
+git clone https://github.com/J3lly-Been/your-repo-name.git
+cd action-detection
+```
+
 ### Backend (Training)
 
 1. **Installation**: Install required libraries using pip. Open your terminal or command prompt, navigate to your project directory, and run the following command:
@@ -117,6 +126,10 @@ Human action detection involves detecting and classifying human actions or activ
 
 Refer to the detailed usage instructions in the README for more information.
 
+## Future Work
+
+This repository will be constantly updated to incorporate new features and improvements. Work on a new CNN model for enhanced performance is currently underway and will be integrated soon.
+
 ## License
 
 This project is licensed under the MIT License.
@@ -129,5 +142,3 @@ roboflow
 glob2
 matplotlib
 ```
-
----
